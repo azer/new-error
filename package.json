@@ -1,0 +1,23 @@
+{
+  "name": "new-error",
+  "version": "0.0.0",
+  "description": "Create Error Objects With String Formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "new-format": "*"
+  },
+  "keywords": [
+    "error",
+    "string",
+    "formatting"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/new-error.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
