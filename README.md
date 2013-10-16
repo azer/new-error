@@ -10,7 +10,7 @@ error.message
 // => There is no result for "f00ar". Did you mean "foo bar" ?
 
 // Objects also can be passed.
-new Error('Invalid e-mail "{email}" and username "{username}"', { email: 'foo@foo', username: '!!!11' })
+newError('Invalid e-mail "{email}" and username "{username}"', { email: 'foo@foo', username: '!!!11' })
 ```
 
 ## Install
