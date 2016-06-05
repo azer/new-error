@@ -1,4 +1,4 @@
-var format = require("new-format");
+var format = require("format-text");
 
 module.exports = newError;
 
