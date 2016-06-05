@@ -7,7 +7,7 @@
     "test": "fox"
   },
   "dependencies": {
-    "new-format": "*"
+    "new-format": "azer/new-format"
   },
   "keywords": [
     "error",
